@@ -16,7 +16,7 @@ class Resposta extends StatelessWidget {
         style: ElevatedButton.styleFrom(
             backgroundColor: Color.fromARGB(255, 59, 59, 205),
             foregroundColor: Color.fromARGB(255, 246, 0, 0),
-            shadowColor: Color.fromARGB(255, 0, 0, 0)),
+            shadowColor: Color.fromARGB(255, 128, 208, 0)),
       ),
     );
   }
